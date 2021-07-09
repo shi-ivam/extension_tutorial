@@ -1,0 +1,1 @@
+Same as the past Extension's manifest.json but with some different images and icons (maybe some permissions too if necessary).

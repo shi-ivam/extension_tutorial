@@ -1,0 +1,1 @@
+Just link the css file in the popup.html using Style tags.
