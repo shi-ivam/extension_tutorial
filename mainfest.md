@@ -3,7 +3,7 @@ Create a file named manifest.json file
 Current version is 2 and it seems a new version is launched (v3)
 
 The manifest.json file should look something like this
-```
+```json
 {
     "manifest_version":2,
     "name":"Hello World",
